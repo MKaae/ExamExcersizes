@@ -1,6 +1,6 @@
 public class Bread {
-    int price = 0;
-    String name = "";
+    public int price = 0;
+    public String name = "";
     static int breadCnt = 0;
 
     public Bread(){
