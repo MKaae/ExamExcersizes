@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28ff6b5b-8c09-49b1-833b-7ff602395df2" name="Changes" comment="#3 Methods [01] uploaded with answers.">
-      <change afterPath="$PROJECT_DIR$/src/TestProgram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MethodShow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MethodShow.java" afterDir="false" />
+    <list default="true" id="28ff6b5b-8c09-49b1-833b-7ff602395df2" name="Changes" comment="#4 Loops [01] uploaded with answers.">
+      <change afterPath="$PROJECT_DIR$/src/MyArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +47,7 @@
       <updated>1673811617147</updated>
       <workItem from="1673811618504" duration="2064000" />
       <workItem from="1673873307341" duration="5408000" />
-      <workItem from="1673950244234" duration="3004000" />
+      <workItem from="1673950244234" duration="3972000" />
     </task>
     <task id="LOCAL-00001" summary="#1 Classes [01] uploaded with answers.">
       <created>1673813833606</created>
@@ -72,7 +70,28 @@
       <option name="project" value="LOCAL" />
       <updated>1673878745996</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="#3 Methods [01] uploaded with answers.">
+      <created>1673953285577</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673953285577</updated>
+    </task>
+    <task id="LOCAL-00005" summary="#4 Loops [01] uploaded with answers.">
+      <created>1673953391768</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673953391768</updated>
+    </task>
+    <task id="LOCAL-00006" summary="#4 Loops [01] uploaded with answers.">
+      <created>1673953411574</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673953411574</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,6 +112,7 @@
     <MESSAGE value="#1 Classes [01] uploaded with answers." />
     <MESSAGE value="#2 Objects [01] uploaded with answers." />
     <MESSAGE value="#3 Methods [01] uploaded with answers." />
-    <option name="LAST_COMMIT_MESSAGE" value="#3 Methods [01] uploaded with answers." />
+    <MESSAGE value="#4 Loops [01] uploaded with answers." />
+    <option name="LAST_COMMIT_MESSAGE" value="#4 Loops [01] uploaded with answers." />
   </component>
 </project>
