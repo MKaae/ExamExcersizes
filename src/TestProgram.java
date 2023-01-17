@@ -30,7 +30,9 @@ public class TestProgram {
         The problem with explaining why we would use a for loop in the above assignment is that we can get better,
         time complexity by just using a single for loop or changing it to a while loop.
         First assignment with nested for loops is BigO(n^2), but we can make it BigO(n).
-        It does require a few more bytes for assigning int counter.
+        It does require a few more bytes for assigning int counter and the String value, but if the program
+        is bigger it most likely wouldn't since we would already have values of numbers as strings, and
+        strings is immutable.
         int counter = 1;
         for(int i = a; i < 4; i++){
             System.out.println(String.valueOf(counter) + String.valueOf(counter) + String.valueOf(counter) + String.valueOf(counter) + String.valueOf(counter));
