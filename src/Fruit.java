@@ -18,8 +18,8 @@ public class Fruit {
         fruit.showFruitWeight();
     }
     /*
-    I'm overriding the method to make a new method for banana that has the explained prints.
-    Then i'm calling the super method with super.showFruitWeight();
+    I'm calling the method in banana showFruitWeight(); inside that method i call the super method.
+    I'm calling the super method with super.showFruitWeight();
     We do this with polymorphism, so banana get showFruitWeight but with super we can call the original method.
      */
 }
