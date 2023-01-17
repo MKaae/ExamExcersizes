@@ -9,7 +9,9 @@ public class MyArray {
         System.out.println(sum);
         b = a;
         /*
-        When we do b = a, b copies the adresses that is stored inside a that points to the adresses of the variables.
+        When you make b = a, both are pointers to the actual array in memory. So they're the same.
+        You either have to make a copy or run numbers from a into b to make 2 separate arrays,
+        otherwise any changes to a will change b even if you change after b = a;
          */
     }
 }
