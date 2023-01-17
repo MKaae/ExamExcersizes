@@ -12,7 +12,7 @@ public class MethodShow {
         When we have a method we can read it as "Access_Modifier Static/Non-static ReturnType Method_Name(Parameter){ Block of code}".
         The method signature from that is Method_Name(Argument)
 
-        We declared out method static which means we don't have to create an object of the class to see the methods inside it.
+        We declared our method static which means we don't have to create an object of the class to see the methods inside it.
         We don't have to make a MethodShow ms = new MethodShow(); to use isTrue(7).
          */
     }

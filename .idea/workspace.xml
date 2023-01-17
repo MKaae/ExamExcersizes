@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28ff6b5b-8c09-49b1-833b-7ff602395df2" name="Changes" comment="#2 Objects [01] uploaded with answers.">
-      <change afterPath="$PROJECT_DIR$/src/MethodShow.java" afterDir="false" />
+    <list default="true" id="28ff6b5b-8c09-49b1-833b-7ff602395df2" name="Changes" comment="#3 Methods [01] uploaded with answers.">
+      <change afterPath="$PROJECT_DIR$/src/TestProgram.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MethodShow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MethodShow.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +48,8 @@
       <option name="presentableId" value="Default" />
       <updated>1673811617147</updated>
       <workItem from="1673811618504" duration="2064000" />
-      <workItem from="1673873307341" duration="4794000" />
+      <workItem from="1673873307341" duration="5408000" />
+      <workItem from="1673950244234" duration="3004000" />
     </task>
     <task id="LOCAL-00001" summary="#1 Classes [01] uploaded with answers.">
       <created>1673813833606</created>
@@ -63,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673877200091</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="#3 Methods [01] uploaded with answers.">
+      <created>1673878745996</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673878745996</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,6 +92,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="#1 Classes [01] uploaded with answers." />
     <MESSAGE value="#2 Objects [01] uploaded with answers." />
-    <option name="LAST_COMMIT_MESSAGE" value="#2 Objects [01] uploaded with answers." />
+    <MESSAGE value="#3 Methods [01] uploaded with answers." />
+    <option name="LAST_COMMIT_MESSAGE" value="#3 Methods [01] uploaded with answers." />
   </component>
 </project>
