@@ -9,7 +9,7 @@ public class MyArray {
         System.out.println(sum);
         b = a;
         /*
-        When we do b = a, b copies the adresses of stored inside a that points to the adresses of the variables.
+        When we do b = a, b copies the adresses that is stored inside a that points to the adresses of the variables.
          */
     }
 }
