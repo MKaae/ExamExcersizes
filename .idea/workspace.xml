@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28ff6b5b-8c09-49b1-833b-7ff602395df2" name="Changes" comment="#5 Array [01] uploaded with answers.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyArrayList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +47,7 @@
       <updated>1673811617147</updated>
       <workItem from="1673811618504" duration="2064000" />
       <workItem from="1673873307341" duration="5408000" />
-      <workItem from="1673950244234" duration="4668000" />
+      <workItem from="1673950244234" duration="5380000" />
     </task>
     <task id="LOCAL-00001" summary="#1 Classes [01] uploaded with answers.">
       <created>1673813833606</created>
@@ -106,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673954673765</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="#5 Array [01] uploaded with answers.">
+      <created>1673955141751</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1673955141751</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
