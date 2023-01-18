@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28ff6b5b-8c09-49b1-833b-7ff602395df2" name="Changes" comment="#6 ArrayList [01] uploaded with answers.">
-      <change afterPath="$PROJECT_DIR$/src/Banana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fruit.java" afterDir="false" />
+    <list default="true" id="28ff6b5b-8c09-49b1-833b-7ff602395df2" name="Changes" comment="#7 Inheritance [01] uploaded with answers.">
+      <change afterPath="$PROJECT_DIR$/src/MyMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,13 +31,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -49,7 +49,9 @@
       <updated>1673811617147</updated>
       <workItem from="1673811618504" duration="2064000" />
       <workItem from="1673873307341" duration="5408000" />
-      <workItem from="1673950244234" duration="7820000" />
+      <workItem from="1673950244234" duration="8512000" />
+      <workItem from="1673993779694" duration="52000" />
+      <workItem from="1674037363237" duration="462000" />
     </task>
     <task id="LOCAL-00001" summary="#1 Classes [01] uploaded with answers.">
       <created>1673813833606</created>
@@ -121,7 +123,21 @@
       <option name="project" value="LOCAL" />
       <updated>1673955929849</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="#7 Inheritance [01] uploaded with answers.">
+      <created>1673958315603</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1673958315603</updated>
+    </task>
+    <task id="LOCAL-00012" summary="#7 Inheritance [01] uploaded with answers.">
+      <created>1673958359183</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1673958359183</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +161,7 @@
     <MESSAGE value="#4 Loops [01] uploaded with answers." />
     <MESSAGE value="#5 Array [01] uploaded with answers." />
     <MESSAGE value="#6 ArrayList [01] uploaded with answers." />
-    <option name="LAST_COMMIT_MESSAGE" value="#6 ArrayList [01] uploaded with answers." />
+    <MESSAGE value="#7 Inheritance [01] uploaded with answers." />
+    <option name="LAST_COMMIT_MESSAGE" value="#7 Inheritance [01] uploaded with answers." />
   </component>
 </project>
